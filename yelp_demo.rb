@@ -174,7 +174,3 @@ def get_avg_review (res_id)
 
 end
 
-p get_avg_review (1)
-p get_address (1)
-p get_menu (1)
-p get_days_open (1)
