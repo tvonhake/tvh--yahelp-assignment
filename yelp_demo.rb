@@ -74,6 +74,15 @@ end
 
 
 # OBJECTIVES
+# - CRUD actions
+# - Return restuarant locations
+# - Return location of restuarant
+# - Return days of operation
+# - Return menu
+# - Return avg reviews
+# - When a restuarant is created/updated, create new instance variable for restuarant hash w/ appropriate name
+
+
 
 #CRUD ACTIONS
 
